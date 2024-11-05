@@ -1,3 +1,4 @@
+import React from 'react';
 import { InputContainer, ErrorMessage } from "./styles";
 import { IInputProps } from "././types";
 import { Controller } from "react-hook-form";
